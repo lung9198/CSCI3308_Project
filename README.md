@@ -7,7 +7,7 @@ Name | Github ID
 Eugene Ho | 	 	
 Ryan Davis |	 
 Kenneth Ford |	 
-Luke Hao Nguyen | 
+Luke Hao Nguyen | lung9198
 Kristin Robinson | RobinsonK
 
 ## Title
